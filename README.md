@@ -1,14 +1,16 @@
-Benvenuti nel mio repository di casi studio OSINT. Qui documento metodologie e analisi tecniche relative a frodi digitali, tracciamento di infrastrutture malevole e investigazioni open-source.
+# OSINT Case Studies Repository
+
+Welcome to my OSINT Case Studies repository. This space is dedicated to documenting methodologies and technical analyses regarding digital fraud, malicious infrastructure tracking, and open-source investigations.
 
 ## 🛠 Tech Stack & Tools
-- **Analisi Infrastruttura:** Shodan, Censys, Whois, crt.sh
-- **Analisi Malware/Phishing:** VirusTotal, URLScan, Hybrid Analysis
-- **Image/Video Forensics:** TinEye, Google Lens, ExifTool
-- **Automation:** Python (Script personalizzati per scraping e data aggregation)
+* **Infrastructure Analysis:** Shodan, Censys, Whois, crt.sh
+* **Malware/Phishing Analysis:** VirusTotal, URLScan, Hybrid Analysis
+* **Image/Video Forensics:** TinEye, Google Lens, ExifTool
+* **Automation:** Python (Custom scripts for scraping and data aggregation)
 
-## 📁 Casi Investigativi
-1. **[CASE-001] Operazione Ghost Seller** - Smantellamento di un network di e-commerce fraudolenti.
-2. *In arrivo...*
+## 📁 Investigative Cases
+1.  **[CASE-001] Operation Ghost Seller** – Deconstructing and dismantling a network of fraudulent e-commerce platforms.
+2.  *More coming soon...*
 
 ---
-**Contatti:** [santivadala.dev@gmail.com](mailto:santivadala.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/santi-vadal%C3%A0-02477132a/)
+**Contact:** [santivadala.dev@gmail.com](mailto:santivadala.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/santi-vadal%C3%A0-02477132a/)
