@@ -42,4 +42,4 @@ The investigation concluded with a comprehensive technical report for the client
 * Technical report submitted to registrars for the **Takedown** of the entire network. [cite: immagine.png (9)]
 
 ---
-[🔙 Back to Portfolio](https://beacons.ai/vadgrram)
+[🔙 Back to Portfolio](https://github.com/santivadaladev)
