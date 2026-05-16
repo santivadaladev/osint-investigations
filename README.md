@@ -13,4 +13,4 @@ Welcome to my OSINT Case Studies repository. This space is dedicated to document
 2.  *More coming soon...*
 
 ---
-**Contact:** [santivadala.dev@gmail.com](mailto:santivadala.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/santi-vadal%C3%A0-02477132a/)
+**Contact:** 
