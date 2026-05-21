@@ -8,7 +8,7 @@ A comprehensive Open Source Intelligence (OSINT) infrastructure analysis was ini
 ---
 
 ## 2. Indicator of Compromise (IoC) Under Investigation
-*   **Target IP Address:** `[TARGET_IP]` (Formerly mapped to `185.112.146.12`)
+*   **Target IP Address:** `[TARGET_IP]` (Formerly mapped to `OMISS`)
 *   **Observed Activity:** Anomalous outbound data connections from internal corporate assets.
 
 ---
@@ -17,10 +17,10 @@ A comprehensive Open Source Intelligence (OSINT) infrastructure analysis was ini
 
 ### Phase 1: Attribution & Geolocation
 Querying regional internet registries (RIR) and passive WHOIS records yielded the following structural data:
-*   **ASN:** `AS44925` / `AS61138`
-*   **ISP / Infrastructure Provider:** `1984 ehf` (The 1984 Cloud Net)
-*   **Host Domain:** `1984.is`
-*   **Geographic Location:** Reykjavik, Capital Region, Iceland (🇮🇸)
+*   **ASN:** `OMISS` / `OMISS`
+*   **ISP / Infrastructure Provider:** `OMISS` (The OMISS Cloud Net)
+*   **Host Domain:** `OMISS`
+*   **Geographic Location:** OMISS, Capital Region, Iceland (🇮🇸)
 *   **Usage Type:** Data Center / Web Hosting / VPS (Virtual Private Server)
 
 **Analyst Note:** *1984 Hosting* is an Icelandic provider globally recognized for its strict privacy policies and adherence to local data protection laws. Threat actors frequently exploit these "bulletproof" hosting environments to deploy malicious infrastructure, knowing that taking down servers in these jurisdictions via standard abuse requests is highly complex and time-consuming.
